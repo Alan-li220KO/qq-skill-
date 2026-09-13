@@ -1,0 +1,4 @@
+interface:
+  display_name: "QQ 导出与事件分析"
+  short_description: "从本机导出或现有 QQ JSON 提炼群聊事件与截止日期"
+  default_prompt: "使用 $qq-export-analyze 导出或分析 QQ 群聊，并在对话中汇总重要事件。"
